@@ -1,0 +1,1 @@
+![http://ovfotjrsi.bkt.clouddn.com/docs/img/architecture/elastic_job_lite.png](http://ovfotjrsi.bkt.clouddn.com/docs/img/architecture/elastic_job_lite.png)887
